@@ -22,7 +22,7 @@ Jusqu’à aujourd’hui, la seule solution pour éviter le recours à ce tiers 
 
 La raison d’être des banques et des intermédiaires de paiement est de proposer divers instruments fiduciaires, comme les chèques, les cartes bancaires, réseaux de paiement etc, qui permettent de contourner ces inconvénients. Cette intermédiation constitue donc un compromis entre sécurité et commodité : la monnaie fiduciaire est plus facile à utiliser et permet des paiements à longue distance, mais introduit de nouveaux risques inhérents à la présence d’un tiers de confiance, ce qu’on appelle des risques de contrepartie.
 
-En apportant une solution à ce problème de double-dépense qui permet de se passer de tiers de confiance, Bitcoin est donc la première forme de monnaie à cumuler la qualité principale des espèces, qui est de permettre un règlement immédiat d’une dette sans tiers validateur, et les avantages des instruments fiduciaires, le paiement entre des acteurs éloignés et qui ne se connaissent pas. 
+En apportant une solution à ce problème de double-dépense qui permet de se passer de tiers de confiance, Bitcoin est donc la première forme de monnaie à cumuler la qualité principale des espèces, qui est de permettre un règlement immédiat d’une dette sans intermédiaires, et les avantages des instruments fiduciaires, le paiement entre des acteurs éloignés et qui ne se connaissent pas. 
 
 ## La blockchain de Bitcoin
 
@@ -36,12 +36,12 @@ Il y a donc deux opérations à considérer séparément :
 * l’enregistrement de la balance de Bob dans la blockchain,
 * la validation de cet enregistrement, qui permet de s'assurer qu'elle n'est pas frauduleuse. 
 
-Pour que chaque participant du réseau puisse valider indépendamment un enregistrement dans la blockchain, il est donc nécessaire que ces participants partagent la même définition de ce qu'est une transaction valide, sans quoi le réseau se fractionnerait, puisqu'une même transation serait considérée valide par certains et pas par d'autres.
+Pour que chaque participant du réseau puisse valider indépendamment un enregistrement dans la blockchain, il est donc nécessaire que ces participants partagent la même définition de ce qu'est une transaction valide, sans quoi le réseau se fractionnerait, puisqu'une même transaction serait considérée valide par certains et pas par d'autres.
 Pour résumer, en déléguant la validation des enregistrements indépendamment à chaque acteur du réseau, il est également nécessaire d'imposer un protocole de validation très claire pour permettre à un si grand nombre d'acteurs indépendants d'arriver à un _consensus_ sur une version et une seule du registre. 
 
 ## Le protocole de validation 
 
-En effet, si Bob peut y inscrire une transaction frauduleuse dans la blockchain et la faire passer pour valide, il n'aura aucune difficulté à la corrompre pour son propre bénéfice. C'est pourquoi il existe des règles très strictes pour définir à quelles conditions Bob a le droit d'écrire dans la blockchain, et ce qu'il a le droit d'y écrire. 
+En effet, si Bob peut inscrire une transaction frauduleuse dans la blockchain et la faire passer pour valide, il n'aura aucune difficulté à la corrompre pour son propre bénéfice. C'est pourquoi il existe des règles très strictes pour définir à quelles conditions Bob a le droit d'écrire dans la blockchain, et ce qu'il a le droit d'y écrire. 
 
 Il est donc nécessaire d'avoir un protocole commun qui permette aux utilisateurs/validateurs de contrôler que l’enregistrement d’une information dans la blockchain respecte les règles. Dans le cas de Bitcoin, outre le système de _hash_ dont nous reparlerons plus tard, trois mécanismes garantissent que les données inscrites dans la blockchain sont correctes : 
 1. La preuve de travail (_proof of work_) : afin d’obtenir le droit d’ajouter un bloc dans la blockchain, il faut être le premier à résoudre un problème mathématique très difficile, qui nécessite beaucoup de puissance de calcul, et donc de l’énergie. Pouvoir écrire dans la blockchain de Bitcoin n’est pas gratuit, et est même aujourd’hui très cher. 
