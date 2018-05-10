@@ -1,4 +1,5 @@
 #En finir avec la Blockchain
+
 Qu'est-ce que “la blockchain” ? Souvent présentée comme "la technologie sous-jacente de Bitcoin", le terme est en fait bien postérieur à ce dernier, et n'est pas employé dans le fameux whitepaper de Satoshi Nakamoto publié en 2008. 
 
 Bien qu'il n'y en ait pas de définition suffisamment claire, du moins à notre sens, quelques éléments reviennent constamment : 
