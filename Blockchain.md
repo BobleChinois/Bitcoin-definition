@@ -35,6 +35,7 @@ Au lieu de reposer sur une entité unique seule à pouvoir contrôler les transa
 Il y a donc deux opérations à considérer séparément : 
 * l’enregistrement de la balance de Bob dans la blockchain,
 * la validation de cet enregistrement, qui permet de s'assurer qu'elle n'est pas frauduleuse. 
+
 Pour que chaque participant du réseau puisse valider indépendamment un enregistrement dans la blockchain, il est donc nécessaire que ces participants partagent la même définition de ce qu'est une transaction valide, sans quoi le réseau se fractionnerait, puisqu'une même transation serait considérée valide par certains et pas par d'autres.
 Pour résumer, en déléguant la validation des enregistrements indépendamment à chaque acteur du réseau, il est également nécessaire d'imposer un protocole de validation très claire pour permettre à un si grand nombre d'acteurs indépendants d'arriver à un _consensus_ sur une version et une seule du registre. 
 
