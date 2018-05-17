@@ -1,6 +1,11 @@
 # En finir avec la Blockchain
 
-Qu'est-ce que “la blockchain” ? Souvent présentée comme "la technologie sous-jacente de Bitcoin", le terme est en fait bien postérieur à ce dernier. Il n'est pas employé dans le fameux whitepaper de Satoshi Nakamoto publié en 2008, ni dans les premiers échanges au sein de la communauté.  
+tl;dr : 
+* si votre objectif n'est pas d'éliminer _simultanément_ les risques de double-dépense et de contrepartie, **vous n'avez pas besoin d'une blockchain**.
+* si il n'est pas difficile et coûteux d'écrire sur votre blockchain, et au contraire facile et peu coûteux de vérifier ce qui y a été enregistré, **elle ne restera pas décentralisée**.
+* Enfin, si la vérification de votre blockchain n'est pas réellement décentralisée, **elle sera tôt ou tard corrompue**, soit par la réintroduction de risques de contrepartie (transactions bloquées et/ou annulées), soit de façon encore plus fondamentale par la corruption des règles qui en régissent le fonctionnement.
+
+Qu'est-ce que “la blockchain” ? Souvent présentée comme "la technologie sous-jacente de Bitcoin", le terme est en fait bien postérieur à ce dernier. Il n'est pas employé dans le fameux [_whitepaper_ de Satoshi Nakamoto](https://nakamotoinstitute.org/bitcoin/ "whitepaper) publié en 2008, ni dans les premiers échanges au sein de la communauté.  
 
 Bien qu'il n'y en ait pas de définition suffisamment claire, du moins à notre sens, quelques éléments reviennent constamment : 
 * il s’agit d’une “base de données”, ou parfois d’un “registre” de “transactions”, 
@@ -8,15 +13,15 @@ Bien qu'il n'y en ait pas de définition suffisamment claire, du moins à notre 
 * elle est aussi “sécurisée” et “immuable”. 
 * On ajoute parfois, à raison, qu’elle nécessite un “jeton” pour fonctionner, c’est-à-dire une forme d’unité monétaire intrinsèque. 
 
-Aujourd’hui, c’est surtout une solution à la recherche d’un problème. Plus grave, c'est aussi une source de malentendu majeur sur ce qu’est Bitcoin, le problème qu’il résout, et pourquoi cela va (peut-être) changer le monde. 
+Aujourd’hui, c’est surtout une solution à la recherche d’un problème. Plus grave, c'est aussi une source de malentendus majeure sur ce qu’est Bitcoin, le problème qu’il résout, et pourquoi cela va (peut-être) changer le monde. 
 
-Cet article constitue une tentative d’expliquer ce qu’est une blockchain en partant de la première et de la seule réellement opérationnelle à l’heure actuelle, celle de Bitcoin. Son objectif n’est pas de rentrer dans les subtilités techniques, mais de poser de façon suffisamment claire une définition simple, qui puisse servir de critère pour déterminer la pertinence d’une blockchain dans des cas d’usage précis. 
+Cet article constitue une tentative d’expliquer ce qu’est une blockchain en partant de la première et de la seule réellement opérationnelle à l’heure actuelle, celle de Bitcoin. Son objectif n’est pas de rentrer dans les subtilités techniques, mais de repartir de sa raison d'être dans l'architecture de Bitcoin afin de poser de façon suffisamment claire une définition simple, qui puisse servir de critère pour déterminer la pertinence d’une blockchain dans des cas d’usage précis. 
 
 ## Bitcoin et le problème de la double-dépense
 
 Revenons à l’archétype, la blockchain de Bitcoin. Pour son inventeur, Satoshi Nakamoto, il s’agit d’une solution au problème de la "double-dépense", c’est-à-dire le risque qu’une même unité monétaire puisse être dépensée deux fois de façon frauduleuse. 
 
-Il s’agit d’un problème très ancien, et qui concerne en fait la plupart des modes de paiement. Prenons l’exemple du chèque de banque : si Bob fait un chèque à Alice pour régler une dette, comment cette dernière peut-elle être sûre qu'il ne s'agit pas de ce qu’on appelle communément un “chèque en bois”, et que Bob n'a pas déjà dépensé les mêmes euros en faisant un autre chèque à quelqu’un d’autre, Eve par exemple ? La solution traditionnelle à ce problème est le recours à un tiers, en l'occurrence une banque, qui supervise les comptes d’Alice, Bob et Eve, et est en mesure de voir que l'argent destiné à Alice a déjà été payé à Eve, et donc d'empêcher qu’il fasse l’objet d’une deuxième transaction. Le problème est exactement le même pour Visa, Paypal ou Alipay. 
+Il s’agit d’un problème très ancien, et qui concerne en fait tous les modes de paiement. Prenons l’exemple du chèque de banque : si Bob fait un chèque à Alice pour régler une dette, comment cette dernière peut-elle être sûre qu'il ne s'agit pas de ce qu’on appelle communément un “chèque en bois”, et que Bob n'a pas déjà dépensé les mêmes euros en faisant un autre chèque à quelqu’un d’autre, Eve par exemple ? La solution traditionnelle à ce problème est le recours à un tiers, en l'occurrence une banque, qui supervise les comptes d’Alice, Bob et Eve, et est en mesure de voir que l'argent destiné à Alice a déjà été payé à Eve, et donc d'empêcher qu’il fasse l’objet d’une deuxième transaction. Le problème est exactement le même pour Visa, Paypal ou Alipay. 
 
 Jusqu’à aujourd’hui, la seule solution pour éviter le recours à ce tiers validateur était l’utilisation d’espèces, ou _cash_, c’est-à-dire d’une forme d’argent qui a sa valeur en soi, et n’est pas une créance opposable à un tiers, comme le chèque ou la carte bancaire. Les espèces ont toutefois un défaut : elles doivent être remises de la main à la main, et ne permettent donc pas d’effectuer des paiements à distance. Elles peuvent également être malcommodes à stocker et à transporter. 
 
@@ -44,8 +49,8 @@ Pour résumer, en déléguant la validation des enregistrements indépendamment 
 En effet, si Bob peut inscrire une transaction frauduleuse dans la blockchain et la faire passer pour valide, il n'aura aucune difficulté à la corrompre pour son propre bénéfice. C'est pourquoi il existe des règles très strictes pour définir à quelles conditions Bob a le droit d'écrire dans la blockchain, et ce qu'il a le droit d'y écrire. 
 
 Il est donc nécessaire d'avoir un protocole commun qui permette aux utilisateurs/validateurs de contrôler que l’enregistrement d’une information dans la blockchain respecte les règles. Dans le cas de Bitcoin, outre le système de _hash_ dont nous reparlerons plus tard, trois mécanismes garantissent que les données inscrites dans la blockchain sont correctes : 
-1. La preuve de travail (_proof of work_) : afin d’obtenir le droit d’ajouter un bloc dans la blockchain, il faut être le premier à résoudre un problème mathématique très difficile, qui nécessite beaucoup de puissance de calcul, et donc de l’énergie. Pouvoir écrire dans la blockchain de Bitcoin n’est pas gratuit, et est même aujourd’hui très cher. 
-2. La récompense : les acteurs qui consomment de l’énergie pour écrire dans la blockchain, les “mineurs”, sont récompensés par la création de nouveaux bitcoins. Ainsi les mineurs ont un réel intérêt à maintenir l’intégrité du réseau : en cas de malversations de leur part, la confiance des utilisateurs déclinerait rapidement et leurs coûteux investissements en énergie et matériel de minage spécialisé perdraient toute valeur.
+1. La preuve de travail (_proof of work_) : afin d’obtenir le droit d’ajouter un bloc d'informations dans la blockchain, il faut être le premier à résoudre un problème mathématique très difficile, qui nécessite beaucoup de puissance de calcul, et donc de l’énergie. Pouvoir écrire dans la blockchain de Bitcoin n’est pas gratuit, et est même aujourd’hui très cher. 
+2. La récompense : les acteurs qui consomment de l’énergie pour écrire dans la blockchain, les “mineurs”, sont récompensés par la création de nouveaux bitcoins. Ainsi les mineurs ont un réel intérêt à maintenir l’intégrité du réseau : en cas de disruption importante du réseau, leurs coûteux investissements en énergie et matériel de minage spécialisé perdraient toute valeur.
 3. La validation : valider un bloc est aussi simple pour un utilisateur que le créer est coûteux pour un mineur. Ainsi, si un participant du réseau diffuse un bloc qui ne respecte pas les « règles du jeu » (exemple réel : des mineurs s’allouent plus de bitcoins en récompense que ce qui est prévu dans le code), ce dernier sera rejeté par tous les participants du réseau, quand bien même la preuve de travail serait valide. Le mineur malhonnête aura donc consommé l’énergie de la preuve de travail en pure perte.
 
 ## Les attaques contre la blockchain
@@ -54,13 +59,15 @@ Contrairement à la définition que nous avons rappelée plus haut, la blockchai
 
 Cette possibilité a été envisagée de façon théorique dès le White Paper de Satoshi Nakamoto sous le nom « d’attaque 51 % », c'est-à-dire qu'un seul acteur possède plus de 51% de la puissance de calcul du réseau. 
 
-Mais ce n'est pas qu'un cas d'école théorique, on trouve également des cas de "réécriture" de blockchain dans la réalité : par exemple, Vitalik Buterin, le créateur d’Ethereum, a décidé de modifier cette blockchain suite au hack de la DAO en 2016 afin d’effacer les gains du hacker. 
+Mais ce n'est pas qu'un cas d'école théorique, on trouve également des cas de "réécriture" de blockchain dans la réalité : par exemple, Vitalik Buterin, le créateur d’Ethereum, a décidé de modifier cette blockchain suite au hack de la DAO en 2016. Dans ce nouveau consensus, le hack n'avait jamais eu lieu, et tous les ethers _volés_ avaient été déplacés vers de nouvelles adresses, où leurs propriétaires "légitimes" ont pu les récupérer. 
+
+Mais l'ancienne chaîne existe toujours aujourd'hui, car une partie des utilisateurs d'Ethereum considèrent cette réécriture abusive et ont donc refusé le nouveau consensus qui leur était proposé. 
 
 Il est toutefois important de noter que l'attaque 51% ne porte pas sur les règles de validité des transactions, mais ne fait qu'annuler ou bloquer des transactions autrement valides. Tant qu'un nombre suffisant d'utilisateurs est présent sur le réseau pour valider les blocs générés par les mineurs, ces derniers n'ont pas le pouvoir d'imposer des changements dans le protocole ou de réaliser des transactions non conformes à ce protocole.
 
 Dans le cas contraire, une cryptomonnaie présente les mêmes enjeux politiques et les mêmes risques de manipulation que n'importe quel autre système centralisé. Sur une blockchain où seule une poignée d'acteurs détient le pouvoir de valider les transactions, un changement de protocole est une affaire triviale. L’utilisation d’une blockchain n’est absolument pas, _en soi_, une garantie d’inviolabilité, et peut être victime de deux types d'attaques :
-* si des clients validateurs ne sont pas largement disséminés sur le réseau, le protocole peut être facilement modifié par collusion d'une poignée d'acteurs majoritaires. 
-* Si le minage n'est pas largement décentralisé aussi bien du point de vue des acteurs en présence que de leur emplacement géographique, le risque est celui d'une paralysie du réseau ou d'une censure systématique de certaines transactions par exemple.  
+* si les validateurs ne sont pas largement disséminés sur le réseau, le protocole peut être facilement modifié par collusion d'une poignée d'acteurs majoritaires. Un tel événement sera très probablement fatal à plus ou moins brève échéance à la blockchain attaquée, car il signifie qu'elle a échoué dans son objectif originel d'éliminer le risque de contrepartie. 
+* Si le minage n'est pas largement décentralisé aussi bien du point de vue des acteurs en présence que de leur emplacement géographique, il existe un risque de paralysie du réseau ou d'une censure systématique de certaines transactions par exemple. Ce dernier risque est relativement moins critique, car il laisse intact les fondations du réseau, et ouvre la porte à l'entrée dans la compétition de nouveaux mineurs "honnêtes", c'est-à-dire ici qui traitent toutes les transactions de façon impartial.
 
 ## Conclusion : une proposition de définition de la _Blockchain_
 
