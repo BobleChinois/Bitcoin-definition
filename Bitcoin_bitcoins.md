@@ -1,12 +1,14 @@
 # Bitcoin et bitcoins
-Nous avons déjà donné une première définition très simple de Bitcoin à travers [le problème résolu par sa blockchain](http://www.sosthene.net/finir-blockchain/ "Article 1") : il s'agit d'un moyen d'éliminer simultanément les risques de double-dépense et de contrepartie d'une transaction électronique.	
-Voyons aujourd'hui ce qu'_est_ Bitcoin et ce que _sont_ les bitcoins. 
 
 Tl ; dr :	
 * D'un point de vue factuel, Bitcoin est un **logiciel**, ou autrement dit de l'information, et **rien d'autre**.
 * Bitcoin n'est pas une organisation humaine, et n'a par conséquent pas besoin de gouvernance. Il délimite son propre espace, certes virtuel, mais souverainement gouverné par ses propres règles.
 * Les bitcoins sont des objets virtuels d'un type radicalement nouveau, des informations qui présentent deux caractéristiques propres au monde physique : la **rareté** et la **rivalité**.
 * Bitcoins n'étant ni une organisation, ni un service, ni un produit, nous proposons de le considérer comme une forme de **ressource** d'un type radicalement nouveau.
+
+Nous avons déjà donné une première définition très simple de Bitcoin à travers [le problème résolu par sa blockchain](http://www.sosthene.net/finir-blockchain/ "Article 1") : il s'agit d'un moyen d'éliminer simultanément les risques de double-dépense et de contrepartie d'une transaction électronique.	
+Voyons aujourd'hui ce qu'_est_ Bitcoin et ce que _sont_ les bitcoins. 
+
 ## Ce que Bitcoin n'est pas
 Avant que d'essayer de définir ce qu'est Bitcoin, il semble pertinent d'écarter quelques malentendus courants. Bitcoin n'est donc _pas_ :
 1. une **entreprise** : Bitcoin n'a pas de "PDG" ou de "patron" comme on l'a parfois entendu, il n'a pas de capital social ni d'actionnaires, ni d'employés. Il n'a pas de stratégie marketing, de roadmap, ne donne pas de conférences de presse, et n'a de compte à rendre à personne.
