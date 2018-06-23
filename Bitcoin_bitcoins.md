@@ -59,7 +59,7 @@ Contrairement à l’image trompeuse de la monnaie que nous utilisons dans la vi
 
 L’existence-même des bitcoins est un défi pour l’imagination, car ils ne sont tout simplement… nulle part. Ou plutôt, ils appartiennent à un monde bien distinct du nôtre, où l’espace n’existe pas et le temps s’égrène au rythme des blocs de la blockchain. 
 
-![Matrix-spoon](Images/no-spoon.png)
+![Matrix-spoon](Images/no-spoon.jpg)
 
 Simples données chiffrées verrouillés cryptographiquement, et par conséquent immatériels, les bitcoins présentent pourtant deux caractéristiques tout à fait propres à notre monde matériel : 
 * la **rareté** : le protocole Bitcoin prévoit qu’il ne pourra jamais exister plus de 21 millions d’unités. Si des mineurs essayaient de modifier cette limite, leurs blocs seraient rejetés par tous les nœuds restés fidèles au protocole d’origine, créant _de facto_ un [_fork_](https://en.bitcoin.it/wiki/Hardfork), c’est-à-dire un deuxième réseau parfaitement étanche à celui d’origine. 
