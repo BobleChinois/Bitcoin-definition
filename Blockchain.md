@@ -5,7 +5,7 @@ tl;dr :
 * si il n'est pas difficile et coûteux d'écrire sur votre blockchain, et au contraire facile et peu coûteux de vérifier ce qui y a été enregistré, **elle ne restera pas décentralisée**.
 * Enfin, si la vérification de votre blockchain n'est pas réellement décentralisée, **elle sera tôt ou tard corrompue**, soit par la réintroduction de risques de contrepartie (transactions bloquées et/ou annulées), soit de façon encore plus fondamentale par la corruption des règles qui en régissent le fonctionnement.
 
-Qu'est-ce que “la blockchain” ? Souvent présentée comme "la technologie sous-jacente de Bitcoin", le terme est en fait bien postérieur à ce dernier. Il n'est pas employé dans le fameux [_whitepaper_ de Satoshi Nakamoto](https://nakamotoinstitute.org/bitcoin/ "whitepaper) publié en 2008, ni dans les premiers échanges au sein de la communauté.  
+Qu'est-ce que “la blockchain” ? Souvent présentée comme "la technologie sous-jacente de Bitcoin", le terme est en fait bien postérieur à ce dernier. Il n'est pas employé dans le fameux [_whitepaper_ de Satoshi Nakamoto](https://nakamotoinstitute.org/bitcoin/ "whitepaper") publié en 2008, ni dans les premiers échanges au sein de la communauté.  
 
 Bien qu'il n'y en ait pas de définition suffisamment claire, du moins à notre sens, quelques éléments reviennent constamment : 
 * il s’agit d’une “base de données”, ou parfois d’un “registre” de “transactions”, 
