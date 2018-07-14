@@ -1,4 +1,4 @@
-# Small blocks : an apology
+# Making the strongest case for small blocks
 
 ## Why write this now ?
 
