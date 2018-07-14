@@ -11,17 +11,17 @@ Here is why I felt it could be useful to write this article now :
 
 ## Prerequisites
 
-Bitcoin is a complex matter, and would deserve a whole book to be discussed at lenght. But since it just means to be a readable article, here is some assumptions I will hold for true :
+Bitcoin is a complex matter, and would deserve a whole book (well, more like whole libraries in fact) to be discussed at lenght. But since it just means to be a readable article, here is some assumptions I won't bother to argue here :
 1. Bitcoin is not a business, nor is it a currency and most importantly it is **not** a payment network. Factually, Bitcoin is [a software, it is code, information](https://hackernoon.com/why-america-cant-regulate-bitcoin-8c77cee8d794), **period**.
 2. While runned by a network of peers, this code enable generation, safe conservation and trade of a kind of commodity, that is digital, scarce and rival, and commonly called "bitcoins".
-3. To achieve that, the peers of the network all agree on a protocol, a set of rules that has been designed to make Bitcoin a ["peer-to-peer electronic cash system"](https://bitcoin.org/bitcoin.pdf). Here we should make immediately clear that opposite to a very common misunderstanding of the word _cash_ (an ignorance easily exploited by Bcash propagandists), **cash does not mean "pocket money" or "microtransaction"**. Cash is money that can be used for ultimate settlement of debt because there are no third parties associated to the deal. Historically, **cash is gold**, so remember that next time someone tells you "Bitcoin betrayed Satoshi's vision, because the whitepaper is talking about _cash_, not _gold_". He has either being deceived or is trying to deceive you.
-4. Bitcoin's value is to be **a sovereign monetary system, meaning nobody can change the rules**. It's a network of _peers_, which means that they're all equal and enforcing the same set of rules. It's not a democracy where some ill-defined _majority_ can impose anything on the minority. Each peer is free to enforce the rules he thinks appropriate, while bearing the full consequences of his choice. 
+3. To achieve that, the peers of the network all agree on a protocol, a set of rules that has been designed to make Bitcoin a ["peer-to-peer electronic cash system"](https://bitcoin.org/bitcoin.pdf). Here we should make immediately clear that opposite to a very common misunderstanding of the word _cash_ (an ignorance easily exploited by Bcash propagandists), **cash does not mean "pocket money" or "microtransaction"**. Cash is money that can be used for ultimate settlement of debt because there are no third parties associated to the deal. Historically, **cash is gold**, so remember that next time someone tells you "Bitcoin betrayed Satoshi's vision, because the whitepaper is talking about _cash_, not _gold_". He has either being deceived or is trying to deceive you, and in both cases you should just ignore him.
+4. Bitcoin's value is to be **a sovereign monetary system, meaning nobody can change the rules**. It's a network of _peers_, which means that they're all equal as they enforce the same set of rules. It's not a democracy where some ill-defined _majority_ can impose anything on the minority. Each peer is free to enforce the rules he thinks appropriate, while bearing the full consequences of his choice. 
 
-## Three arguments to keep the blocks small
+## Three (definitive) arguments to keep the blocks small
 
-1. Bitcoin does impose a trade-off between "ease-of-transaction" (enabled by having bigger blocks) and "ease-of-validation" (the smallest the blokcs, the easier to validate). What's important is the two side of the deal are not of equal importance : the latter is critical while the former is not. That means **we must never trade "ease-of-validation" for "ease-of-transaction"**. 
+1. Bitcoin does impose a trade-off between "ease-of-transaction" (enabled by having bigger blocks) and "ease-of-validation" (the smallest the blocks, the easier to validate). What's important is the two side of the deal are not of equal importance : the latter is critical while the former is not. That means **we must never trade "ease-of-validation" for "ease-of-transaction"**. 
 2. Today, there is no alternative to running a full node to validate transactions and enforce protocol. Bigger blocks raise the requirement to operate a full node yourself, while by keeping blocks small you actually make it easier and easier as domestic computers become more powerful.
-3. With Bitcoin we only have one shot, if we mess things up we are very unlikely to recreate the same _ideal_ conditions for organic growth of another Bitcoin network. That's why we must be very prudent, especially regarding modifications on the protocol level. I know some people won't get it, but in Bitcoin _not doing anything_ is the best option most of the time. 
+3. With Bitcoin we only have one shot, if we mess things up we are very unlikely to recreate the same _ideal_ conditions for organic and anarchistic growth of another Bitcoin network. That's why we must be very prudent, especially regarding modifications on the protocol level. I know some people won't get it, but in Bitcoin _not doing anything_ is the best option most of the time. 
 
 ### The "ease of transaction" versus "ease of validation" trade-off
 
@@ -91,5 +91,12 @@ The whole point of Bitcoin is **not** to be a democracy, to put monetary policy 
 * the failure of the S2X hardfork in 2017 shows that if users with full nodes are opposed to consensus modification, they can successfully resist a highly coordinated and well founded attack with a large support from miners. 
 * more as a side effect, teaching people to run their own node also contribute to the promotion of a culture of responsibility, and helps more people to have a good basic undestanding of Bitcoin and the way it works, which is also important.
 
-It might not be enough, it is definitely not a panacea, but if you really want to help Bitcoin succeed then it is the best you can do.
+It might not be enough, it is definitely not a panacea, but if you really want to help Bitcoin succeed then it is the best you can do (and you will learn a lot in the process).
 
+# References
+
+I didn't invent anything here, so here are the people and articles that inspired me :
+* [Epic twitter storm](https://twitter.com/giacomozucco/status/991438132812943369) from Giacomo Zucco, who made a very strong case that **if you are supporting Bcash, you're really stupid**.
+* [Another epic tweetstorm](https://twitter.com/giacomozucco/status/1009281116837175296), developing further why Bitcoin is less susceptible of embezzlement and/or counterparty risks than gold (as long as **you run a f---- node !**)
+* [A shorter one](https://twitter.com/giacomozucco/status/1003305514393063424) about why if you're arguing about "is Bitcoin more cash or gold", you understand neither.
+* StopAndDecrypt wrote [many articles](https://hackernoon.com/@StopAndDecrypt) about this kind of issue over the last year, **mandatory reading**. 
