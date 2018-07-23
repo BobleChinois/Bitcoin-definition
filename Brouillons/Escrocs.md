@@ -18,7 +18,7 @@ Ce qui vaut pour des altérations légitimes est également valable pour les act
 
 Si moi je voulais m’emparer de vos bitcoins, vous me les remettriez de votre plein gré, et avec le sourire. Parce que vous ne comprenez rien à Bitcoin et que vous vous en voulez de ne pas en avoir acheté à 10€ quand vous en aviez encore l’occasion, je vous ferai miroiter d’être les premiers sur un investissement qui sera le « nouveau Bitcoin », avec un retour sur investissement de plusieurs milliers de pourcents. Et vous me croirez, pas seulement parce que vous êtes méprisable et cupide, mais surtout parce que vous n’avez pas compris qu’il n’y aura pas de « nouveau Bitcoin », ni qu’aucun investissement ne pourra battre Bitcoin dans un horizon prévisible.
 
-![DAO lol](DAO-1.png)
+![DAO lol](../Images/DAO-1.png)
 
 La vérité, c'est que vous êtes seul face à Bitcoin, et que la paranoïa la plus stricte est votre seule chance de salut. Bitstein l'a compris bien plus tôt que moi, et écrivait déjà en 2014 ["nous sommes tous des escrocs"](https://nakamotoinstitute.org/mempool/everyones-a-scammer/). Si vous êtes nouveau dans Bitcoin, la première leçon à retenir est que vous ne pouvez croire personne. Ne me croyez surtout pas, même si ce que j'écris aujourd'hui vous semble vrai et raisonnable, qui sait si je ne serai pas tenté dans quelques temps de vendre une ICO ou un shitcoin à des pigeons comme vous pour ne plus jamais avoir à travailler de ma vie ?
 
@@ -30,7 +30,7 @@ La manipulation est la seule arme réellement efficace à la disposition des par
 
 Bcash n'est toutefois qu'un exemple particulièrement frappant de ce type d'escroqueries. Mentir effrontément est une stratégie très rentable dans Bitcoin, particulièrement dans les périodes où les nouveaux arrivants sont nombreux et ne peuvent plus être absorbés au sein de la communauté locale. Ces nouveaux arrivants peuvent essayer de s'informer bien sûr, mais par où commencer quand il n'existe aucune source d'informations faisant autorité ? 
 
-![Faketoshi](Faketoshi_tweet5.png)
+![Faketoshi](../Images/Faketoshi_tweet5.png)
 
 Ces néophytes forment une proie rêvée pour les escrocs de tout poil, y compris ceux avec un passif déjà bien chargé qui sévissent bien trop longtemps avant de voir leur crédibilité irrémédiablement compromise. Parce qu'ils ne comprennent rien, ou pire ne cherchent même pas à comprendre, leur jugement est faible, ils sont crédules et prompt à la panique ou au contraire à un excès de confiance, et finiront rapidement dépouillés de leurs précieux bitcoins.
 
