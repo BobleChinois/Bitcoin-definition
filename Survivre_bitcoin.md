@@ -8,7 +8,7 @@ Bitcoin est aussi un environnement anarchique et souverain, car il possède une 
 
 Ces considérations peuvent sembler bien inutilement métaphysiques, mais elles ont pourtant des conséquences très concrètes, à commencer par la difficulté qu'il y a à en modifier les règles. La question de l'immutabilité du consensus entre les pairs est capitale, car c'est elle qui rend Bitcoin révolutionnaire et unique. Elle est aussi problématique, car les évolutions doivent rester possibles, et dans les faits Bitcoin évolue constamment depuis sa genèse.
 
-![Philosophy_shit](../Images/Badluckbrian_philo.jpg)
+![Philosophy_shit](Images/Badluckbrian_philo.jpg)
 
 Contrairement à ce qu'essaient de faire croire les vendeurs de blockchains, cette immutabilité n'a rien de technologique. Le noeud du problème est social : tout changement doit être accepté et mis en oeuvre individuellement par chacun des pairs du réseau. L'humain est à la fois le pilier et le point faible de Bitcoin, et par conséquent la cible de toute attaque un peu sérieuse. 
 
@@ -22,7 +22,7 @@ Vous pourriez faire tout ça, mais le rapport entre le risque et le gain espér�
 
 Si moi je voulais m’emparer de vos bitcoins, vous me les remettriez de votre plein gré, et avec le sourire. Parce que vous ne comprenez rien à Bitcoin et que vous vous en voulez de ne pas en avoir acheté à 10€ quand vous en aviez encore l’occasion, je vous ferai miroiter d’être les premiers sur un investissement qui sera le « nouveau Bitcoin », avec un retour sur investissement de plusieurs milliers de pourcents. Et vous me croirez, pas seulement parce que vous êtes cupide, mais surtout parce que vous n’avez pas encore compris qu’il n’y aura pas de « nouveau Bitcoin », ni qu’aucun investissement ne pourra battre Bitcoin dans un horizon prévisible.
 
-![DAO lol](../Images/DAO-1.png)
+![DAO lol](Images/DAO-1.png)
 
 La vérité, c'est que vous êtes seul face à Bitcoin, et que la paranoïa la plus stricte est votre seule chance de salut. Bitstein l'a compris bien plus tôt que moi, et écrivait déjà en 2014 ["nous sommes tous des escrocs"](https://nakamotoinstitute.org/mempool/everyones-a-scammer/). À ce stade précoce de l'histoire de Bitcoin, étant donné son potentiel de croissance délirant comparé aux autres monnaies, le but du jeu pour nous tous devrait être d'en accumuler le plus possible. À moins de miner (ou de les voler), il faudra donc les acheter à quelqu'un de suffisamment stupide pour accepter d'échanger des bitcoins contre la monnaie de singe que sont les euros, les dollars ou le yuan. 
 
@@ -38,7 +38,7 @@ Techniquement, Bcash est un _fork_ de Bitcoin, mais on n'y comprendrait rien en 
 
 Bcash n'est toutefois qu'un exemple particulièrement frappant de ce type d'escroqueries. Mentir effrontément est une stratégie très rentable dans Bitcoin, particulièrement dans les périodes où les nouveaux arrivants sont nombreux et ne peuvent plus être absorbés par leur communauté locale. Ces nouveaux arrivants peuvent essayer de s'informer bien sûr, mais par où commencer quand il n'existe aucune autorité et aucune source d'informations fiable ? 
 
-![Faketoshi](../Images/Faketoshi_tweet5.png)
+![Faketoshi](Images/Faketoshi_tweet5.png)
 
 Ces néophytes forment une proie rêvée pour les escrocs de tout poil, y compris ceux avec un passif déjà bien chargé qui peuvent sévir bien trop longtemps avant de voir leur crédibilité irrémédiablement compromise. 
 
