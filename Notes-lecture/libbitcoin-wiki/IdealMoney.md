@@ -1,5 +1,5 @@
 # La proposition de Nash
-==
+
 L'existence d'un _index des prix industriels et à la consommation_ (_Industrial Consumption Price Index_, ICPI) doit servir d'objectif d'inflation des monnaies _fiat_ nationales. En fait, pour Nash cela reviendrait à _supprimer_ l'inflation.
 
 Pour être efficace cet indice doit être apolitique (de l'aveu-même de Nash). Bitcoin constituerait donc un indice possible pour réaliser sa proposition d'une _Monnaie Idéale_.
@@ -9,7 +9,7 @@ Les monnaies fiat continueraient donc d'exister, mais sans inflation des prix (/
 2. Les individus pourraient utiliser librement la monnaie de leur choix (pas de cours forcé ni de contrôle des changes), et choisir de convertir leurs avoirs dans une monnaie fiat meilleure, ou carrément dans l'indice (Bitcoin). En situation de concurrence, les États seraient donc contraints de contrôler la quantité de leur monnaie afin d'éviter la dégradation par rapport à l'indice, et s'approcheraient donc _asymptotiquement_ de la Monnaie Idéale au sens de Nash.
 
 # Réfutation
-==
+
 ## Hypothèses :
 * la monnaie peut exprimer une conception objective de la valeur (au contraire de la conception subjective de la valeur défendue par les Autrichiens).
 * Bitcoin est cette monnaie.
