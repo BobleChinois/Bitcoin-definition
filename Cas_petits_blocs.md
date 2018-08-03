@@ -66,7 +66,7 @@ Les coûts d'une transaction en or sont très élevés en raison de la nécessit
 
 En procédant ainsi, les acteurs économiques délèguent en réalité le contrôle sur leur bien au vérificateur : ce sont les fameux risques de contrepartie, ceux que Bitcoin a précisément été inventé pour supprimer. Le vérificateur finit en effet systématiquement par abuser de son pouvoir : les souverains ont **toujours** [dévalué](https://en.wikipedia.org/wiki/Aureus) la monnaie dont ils étaient censé garantir la pureté. Les banques ont **toujours** émis davantage de billets échangeables en or que ce qu'elles possédaient réellement dans leurs coffres. 
 
-![Aureus Dioclétien](http://www.sosthene.net/wp-content/uploads/2018/08/Aureus_diocletien.jpg)[caption id="attachment_776" align="aligncenter" width="750"] Sous Dioclétien, l'aureus n'a plus que la moitié de la valeur qu'il avait sous César[/caption] 
+![Aureus Dioclétien](http://www.sosthene.net/wp-content/uploads/2018/08/Aureus_diocletien.jpg) *Sous Dioclétien, l'aureus n'a plus que la moitié de la valeur qu'il avait sous César*
 
 Les crises bancaires du XIXème siècle ont entraîné la création des banques centrales que nous connaissons aujourd'hui, qui sont devenus de gigantesques _single point of failure_ du système de l'étalon-or. 
 
