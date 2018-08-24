@@ -325,3 +325,438 @@ Les gens seront davantage sensible à l'argument de la prévisibilité donnée p
 
 ## Efficacité pour la comptabilité décisive
 
+Même si la stabilité des prix à la consommation est plus évidente pour la plupart des utilisateurs, il n'est pas certain qu'une monnaie visant explicitement cette stabilité s'impose. Le coût de la vie varie en effet d'un endroit à l'autre ou dans le temps, et une monnaie doit pouvoir être utilisé de façon pertinente sur une zone géographique la plus large possible. 
+
+C'est pourquoi la stabilité de la valeur d'une monnaie exprimée par le prix d'une sélection de biens faisant l'objet d'un commerce mondial, tel que les matières premières, les denrées alimentaires et certains produits semi-finis standardisés serait plus pertinente. 
+
+Autre avantage, en termes de réactivité : on sait d'expérience que les modifications de la quantité de monnaie en circulation tendent à mettre un certain temps à se répercuter sur les prix à la consommation, et se font au contraire sentir plus vite sur les prix des matières premières. Ainsi, en fixant un objectif de stabilité des prix sur les premiers et non sur les 2nd, on s'assure de réagir plus vite à toute évolution des prix et de faire les ajustements nécessaires.
+
+Les syndicats pourraient aussi négocier que les rémunérations soient elles aussi indexées sur les prix des matières premières, ce qui aurait pour effet de stabiliser la rémunération nominales mais de faire profiter aux travailleurs d'augmentation réelle dues à la hausse de la productivité (plus de production avec autant de matières premières = prix à la consommation à la baisse)
+
+## Les prix de gros des biens à la consommation comme étalon de valeur pour les monnaies sur des régions internationales
+
+Il est possible que sur des régions couvrant plusieurs pays, les prix de gros à la consommation soient utilisés comme étalon de valeur. Plusieurs zones avec des étalons différents peuvent se superposer partiellement. Cela a un sens quand les habitants d'une zone suffisamment large ont un intérêt commun à maintenir la valeur de certains biens particulièrement importants pour eux stables.
+
+# Inutilité de la théorie quantitative de la monnaie pour ce projet
+
+Dans cette hypothèse, les prémices de la théorie monétaire, à savoir qu'il n'y a qu'une seule monnaie en circulation sur une zone donnée et qu'il n'existe pas de distinction entre monnaie et substitut de monnaie, sont invalidées, et avec elle la théorie quantitative de la monnaie.
+
+En effet, si plusieurs monnaies sont constamment en circulation et n'ont de valeur relative qu'entre elles, il devient alors inutile de calculer la masse monétaire totale sur une zone donnée.
+
+## Balance de cash...
+
+Approche dérivée de Carl Menger, Walras et Marshall. 
+
+Dans un système de monnaies concurrentes, il n'y a pas de demande aggrégée pour la monnaie, mais des demandes différentes pour chaque monnaie. Tant qu'il existe un marché libre sur lequel ces monnaies peuvent être échangées, les individus auront tous un prix auquel ils vendront une monnaie, et au contraire n'épargneront jamais telle autre, car il y aura toujours la possibilité de les échanger contre une autre. 
+
+## et la vélocité de circulation
+
+Différence entre le concept de demande de cash et celui de vélocité de circulation de la théorie quantitative de la monnaie. Un des dommages provoqués par le keynésianisme a été l'oublie de la contribution de Marshall à la compréhension de la façon dont les prix étaient impactés de façon différentielle par les variations de la quantité de monnaie en circulation. 
+
+Voir A.W Marget _Theory of prices_ et Axel Leijonhufvud
+
+## Note sur le monétarisme
+
+Réaction à Keynes, qui niait que "tout mouvement inflationniste ou déflationniste était normalement causé ou nécessairement accompagné par un changement dans la quantité de monnaie et sa vélocité de circulation". Hayek est d'accord avec les "Monétaristes" sur le fait que toute inflation est causée par une augmentation de la demande (demand-pull), et qu'il n'existe pas d'inflation causée par une augmentation des coûts (cost-push), à moins de considérer comme un phénomène économique des décisions politiques d'augmenter la quantité de monnaie en réaction à une augmentation des salaires). 
+
+La théorie monétariste ne rend pas compte des distortions relatives des prix provoquées par les variations dans la quantité de monnaie en circulation, et attire trop l'attention sur les problématiques de taux d'intérêt et de relation créditeur/débiteur.
+
+La stabilité des prix n'implique pas la stabilité de la quantité totale de monnaie, mais que la quantité de monnaie soit maintenu à un niveau telle qu'elle n'altère pas la préférence de liquidité des utilisateurs  (que les individus n'épargnent pas plus ou moins pour s'adapter à l'évolution de la quantité de monnaie).
+
+Le management de la monnaie n'implique donc pas de viser une certaine quantité dans le volume en circulation, mais uniquement de découvrir la quantité qui maintient les prix constants. Cette quantité ne peut être découverte que par le marché, par les actes de ventes et d'achats et les altérations nécessaires de la quantité de monnaie pour maintenir les prix de certains biens stables.
+
+## Pourquoi l'indexation n'est pas un substitut pour une monnaie stable
+
+Pour contrer le risque que fait peser l'inflation sur les créditeurs, il a été proposé de stipuler les obligations à long-terme avec un "standard tabulaire". Le capital nominal doit ainsi être constamment ajusté conformément à l'évolution d'un index d'un certain nombres de prix. 
+
+Cette proposition éliminerait les cas les plus extrêmes d'injustice, mais ne protège pas de ses effets les plus graves, et en augmentant la tolérance à l'inflation pourrait en fait aggraver ses effets. 
+
+En effet c'est un remède contre l'effet le plus visible de l'inflation, à savoir l'impact sur certains revenus fixes, mais ignore totalement la distortion provoquée sur les prix relatifs, qui tend à être masquée par l'utilisation d'indicateurs comme la moyenne des prix. La distortion des rapports relatifs des prix a des effets beaucoup plus vicieux, car elle provoque une mésallocation de ressources, et détourne de la main d'oeuvre et du capital vers des entreprises qui ne peuvent être rentables que tant que l'inflation persiste. 
+
+Ce type de dommage causé par l'inflation ne sera donc pas éliminé par l'indexation. 
+
+## Preuves historiques
+
+Friedman s'oppose à la proposition de Hayek, argumentant que l'histoire prouve que des monnaies privées avec un pouvoir d'achat stable ne remplaceront pas les monnaies gouvernementales. 
+
+L'expérience montre en fait qu'un gouvernement ne peut jamais imposer sa monnaie et complètement empêcher l'utilisation d'autres monnaies, même sous la menace des punitions les plus extrêmes. 
+
+# Comportement désirable de l'offre de monnaie
+
+Hypothèse que la monnaie choisit par chaque individu pour maximiser son intérêt particulier sera aussi la monnaie qui maximisera l'intérêt de tous les utilisateurs. Mais cela n'a rien d'évident.
+
+Le succès d'un calcul économique dépend de la fiabilité des prédictions réalisées sur les prix futurs. Ces prix futurs ne peuvent bien entendu pas être parfaitement prévus, car les prix sont un signal qui intègre d'autres informations exogènes et fondamentalement imprévisibles. Mais toutes choses égales par ailleurs, les prix actuels et leur évolution passée doit permettre de faire une prévision raisonnablement fiable de leur évolution future. 
+
+Ces prévisions peuvent devenir dramatiquement fausses lorsque des événements ponctuels mais difficile à détecter (notamment injection ou destruction monétaires) déclenchent des mouvements correspondants dans les prix mais destinés automatiquement à s'inverser car non soutenable dans le temps. 
+
+Les utilisateurs choisiront d'utiliser une monnaie plutôt qu'une autre en estimant les effets qu'elle a sur leurs propres actions, mais d'ignorer largement les effets sur les actions des autres. 
+
+## L'offre de monnaie, les prix stables, et l'équivalence de l'investissement et de l'épargne
+
+Il a été identifiée lors de la crise de 29 qu'une politique monétaire qui maintient la stabilité des prix en période de forte déflation peut entraîner un surinvestissement par rapport à l'épargne disponible et donc un malinvestissement. Mais Hayek pense que si on arrivait à une réelle stabilité des prix ses effets seraient négligeables (?!)
+
+## Fiction de la "monnaie neutre"
+
+Optimisme sur la possibilité de réaliser une réelle stabilité. Hayek a inventé le concept, mais pense qu'il ne peut pas exister de telle monnaie. 
+
+La meilleure approximation serait donc de stabiliser les prix des facteurs originels de production, ce qui en pratique se limiterait aux matières premières. 
+
+## Demande accrue de liquidité
+
+Pour dissiper le doute sur la possibilité de maintenir des prix stables, nous pouvons imaginer ce qui se passerait si une proportion importante de la communauté décidait soudainement de conserver une part plus importe de leur actif en liquidité. Cela impliquerait-il que la valeur du bien le plus liquide, la monnaie, doive augmenter relatvement aux autres biens ?
+
+Le besoin de ces individus peut être comblé en augmentant la valeur de la monnaie qu'ils ont déjà en leur possession, ou en augmentant la quantité qu'ils peuvent épargner. On peut répondre en augmentant la quantité totale de monnaie, ce qui paradoxalement augmente également la somme de la valeur de tous les biens existants pour les individus, et la part qui en est liquide (peu clair).
+
+En fait, à partir du moment où l'augmentation du stock de monnaie répond à une demande d'épargne, elle ne devrait pas avoir d'impact sur les prix sur lesquels sont indexés la valeur de la monnaie. 
+
+Même si un utilisateur utilise une monnaie stable, cela ne le protège pas des effets négatifs provoqués par une monnaie inflationniste (ou déflationniste ?) qui serait largement en usage et aurait donc un impact sur la structure relative des prix. 
+
+# Banque libre
+
+Débat sur la banque libre en France et Allemagne au XIXe. Les banques commerciales doivent-elles avoir le droit d'émettre des billets convertibles dans les monnaies d'or et d'argent nationales ? 
+
+A l'issue de ce débat, il a été décidé que les banques ne devaient pas avoir ce droit, avec deux conséquences :
+* établissement de banques centrales seules habilitées à émettre des billets convertibles
+* développement des comptes chèques (en remplacement de l'émission de notes désormais interdite)
+
+## Une seule monnaie nationales, et non plusieurs monnaies concurrentes
+
+Le débat à cette époque ne portait que sur la possibilité pour les banques d'émettre des billets convertibles dans la monnaie nationale, et la possibilité d'avoir différentes monnaies n'a semble-t-il jamais été envisagé. 
+
+La donne a changé quand les monnaies nationales ont été progressivement désarrimées de l'or au XXe. Un système dans lequel les banques commerciales auraient pu imprimer des billets convertibles en monnaie fiat nationales, qui aurait alors été responsable de leur fournir le cash nécessaire à leur conversion, n'a jamais existé. 
+
+Le privilège accordé aux banques centrales d'émettre des billets a été compensée par la promesse tacite que ces banques centrales fourniront les billets nécessaires à la liquidation des comptes courants ouverts sans réserves. Le système est ainsi hybride, et personne ne contrôle réellement la masse monétaire totale. 
+
+## Les dépôts sont comme les billets et les chèques 
+
+Cette décision a aussi été prise ainsi car il n'était pas envisagé que les comptes courants et les chèques jouaient fondamentalement le même rôle que les billets de banque. 
+
+Lorsque cette situation a été identifiée, il était unaniment considéré que le système bancaire et son fonctionnement était trop bien établi pour être modifié, engendrant les cycles "boom-bust" constatés durant le XXe.
+
+## Nouveaux contrôles sur les monnaies, nouvelles pratiques bancaires
+
+La présente proposition a l'avantage d'offrir une sortie de l'impasse actuelle. Elle doit entraîner un changement profond dans la façon de faire du business non seulement pour les banques qui choisiront d'émettre leur propre monnaie, mais aussi pour les autres, qui ne pourront plus compter sur une banque centrale pour les tirer d'affaires.
+
+## Opposition des banquiers actuels au nouveau système
+
+Cette modification en profondeur du métier de banquier entraînera indubitablement une forte résistance au sein de la profession. Il faudrait alors compter sur le renouvellement des générations au sein de la profession.
+
+## et des partisans de la banque libre
+
+Ceux qui défendent un système de banque libre pour favoriser l'inflation seront également opposés à la proposition, car elle élimine la possibilité de créer de "l'argent facile" et doit aboutir ultimement à la suprématie de la monnaie "dure".
+
+## Le problème d'une monnaie "chère" (stable)
+
+Contrairement à toute autre forme de compétition, la compétition en matière monétaire impose de conserver sa monnaie plus "chère" que les autres. Mais une fois que plusieurs acteurs seront bien établis, sur quoi pourront-ils se concurrencer ? 
+
+Les services, notamment comptables, peuvent s'avérer décisif pour gagner des clients aux dépends de ses concurrents. 
+
+Risque que les gouvernements ne résistent pas à la tentation de réguler le business, c'est-à-dire de monnayer l'autorisation d'émettre de la monnaie, ce qui réintroduirait un monopole et ruinerait complètement la proposition. Politiquement, il sera difficile de résister aux appels à punir les larges profits engrangés par ces organismes privés, surtout dans un système démocratique. 
+
+# Plus d'inflation ni de déflation ?
+
+Il semble qu'aussi bien un accroissement qu'un décroissement généralisé des prix ne soit possible dans ce système, car il y aura toujours une banque qui tirera avantage d'aller dans le mouvement inverse et qui tirera à nouveau toutes les autres vers le centre. 
+
+## Plus d'inflation provoqué par une hausse des coûts (du pétrole ou autre)
+
+L'inflation généralisée provoquée par une hausse du coût du travail ou des matières premières n'est possible que dans la mesure où la création monétaire crée une demande pour des produits au nouveau prix.
+
+Que se passerait-il si un syndicat ou un carte réussissait à fixer les salaires ou les prix en termes d'une monnaie dont l'émetteur doit conserver la valeur stable ? L'émetteur ne pourrait alors conserver la valeur de sa monnaie que par une réduction sur les prix des autres biens indexés. L'argent dépensé en plus sur le produit dont le prix a été gonflé ne pourra pas être dépensé sur d'autres biens. 
+
+## Le problème de la rigidité des prix et des salaires
+
+Aucune monnaie ne peut supprimer la rigidité de certains prix. Mais elle peut rendre impossible les politiques qui résultent dans cette rigidité en forçant les acteurs à faire face aux conséquences de cette rigidité, par exemple en termes de baisse des ventes. 
+
+La position sur la rigidité des prix est la différence fondamentale entre la présente proposition et les Keynésiens. Keynes pensait que la rigidité des salaires était un fait inévitable et qu'il fallait l'accepter comme donnée, et qu'elle ne pouvait être mitigée qu'en accordant les dépenses au taux de salaire. 
+
+Hayek pense qu'adapter la quantité de monnaie à cette rigidité des salaires ne ferait qu'empirer le problème et mènerait ultimement à la destruction de l'économie de marché. 
+
+## L'erreur de "l'inflation modérée bénéfique"
+
+Toute inflation est dangereuse précisément parce que beaucoup de gens, y compris des économistes, pensent qu'une inflation modérée est inoffensive et même bénéfique. L'inflation stimule l'économie dans la mesure où les bénéfices sont plus importants que prévu (la demande est gonflée artificiellement), ce qui signifie que des entreprises vouées à l'échec peuvent réussir. Mais pour maintenir cet effet, il ne faut pas seulement que les prix continuent d'augmenter à la même vitesse, car cet augmentation est alors anticipée par les acteurs économiques. 
+
+L'autorité monétaire qui se lance dans l'inflation doit alors faire face à un dilemme : les effets de l'inflation ne peuvent continuer à se faire sentir que si elle continue de l'accélérer, aussitôt qu'elle ralentit ou cesse totalement, l'économie se retrouve dans une position pire qu'avant le début de l'inflation. 
+
+L'économie sera dans une position pire, car durant la phase d'inflation la distortion des prix a engendré des mauvaises allocations de capital, et aussi des erreurs de jugements sur les investissements à réaliser, qui doivent tout être liquidées simultanément et engendrent un effondrement du marché. 
+
+Le recours à l'inflation est irrésistible pour le pouvoir politique, car il permet de contrôler le chômage à court-terme, au prix d'un chômage plus grave plus tard. En dépit des efforts de certains économistes pour mettre la création monétaire hors de portée des politiques, la pression s'est avérée irrésistible, et le gouvernement trouve toujours le moyen d'inciter les banques privées à relâcher leur contraintes de crédit (cf subprimes).
+
+Il y a une illusion de la monnaie, l'illusion qu'elle est une valeur constante, et cette illusion ne peut être maintenue qu'en contraignant les gens à utiliser une seule monnaie, et à limiter au maximum leurs interactions avec d'autres. Aussitôt qu'une majorité de la populatione est en contact quotidien avec différentes monnaies, il devient impossible d'empêcher la prise de conscience que leur monnaie se délite et perd sa valeur. 
+
+## La responsabilité du chômage revient aux syndicats
+
+Les gouvernements recourrent à l'inflation pour essayer de contrer la rigidité des prix et des salaires. Ces rigidités sont imputables aux syndicats et aux cartels qui les négocient. La rigidité des salaires entraînent un chômage que les gouvernements compensent avec l'inflation, jusqu'à ce que cette dernière ne puisse plus maintenir l'emploi. C'est pourquoi il est nécessaire d'arrêter le mouvement dès son origine pour faire moins de dégâts.
+
+Seuls les variations de prix causés par les modifications de la quantité de monnaie sont à proprement parler l'inflation et la déflation. La présente proposition empêcherait l'inflation et la déflation, mais aussi d'autres mouvements dans les prix non attribuables à une variation de la quantité de monnaie. Dans un monde où les échanges internationaux sont si développés, il est en effet difficilement envisageable que le prix des matières premières connaissent des variations réellement spectaculaires et brutales.
+
+## Empêcher une déflation générale
+
+Mais est-ce qu'une déflation généralisée ne pourrait pas survenir dans un système de monnaies concurrentes ? 
+
+Il peut arriver dans des conditions d'extrêmes incertitudes, les banques n'arrivent pas à prêter de l'argent même à des taux très bas, et risqueraient donc d'être dans l'incapacité de défendre leur monnaie de tendances déflationnistes très puissantes. Cela est d'autant plus dangereux que toutes les banques risquent d'être impactées de la même façon. 
+
+La banque n'a pas intérêt à laisser les prix baisser, car cela revient à augmenter la valeur de sa monnaie au-dessus de la valeur d'émission. Les banques pourraient contrer le mouvement en achetant des actions par exemple, et donc en poussant de l'argent dans les mains d'entreprises qui veulent l'investir. Elles pourraient également acheter elles-mêmes des stocks de matières premières sur lesquelles est indexée leur monnaie, ce qui permettra de maintenir le prix. 
+
+Si ces mesures ne sont pas suffisantes pour contrer les tendances déflationnistes, c'est que les conditions sont véritablement exceptionnelles, et qu'il n'y a pas de moyen d'éviter totalement l'impact.
+
+# Indésirable et impossible politique monétaire
+
+La politique monétaire telle que nous la connaissons aujourd'hui est impossible dans un système de monnaies concurrentes. Les banques, ainsi guidées par leur intérêt particulier, fourniront un environnement monétaire indéniablement plus stable que celui qu'a donné la main-mise des banques centrales, si nous sommes fondés à attendre que le public choisisse dans sa majorité des monnaies stables.
+
+Les critiques du capitalisme et les partisans d'une politique monétaire pointent toujours le chômage comme étant soi-disant la conséquence du libre-marché. Or le chômage se porte mieux que jamais alors que l'idéologie dominante est pro-interventionniste en matière monétaire depuis une centaine d'années. 
+
+## Politique monétaire comme cause de dépression
+
+Nous devrions avoir appris que les politiques monétaires sont bien plus souvent les causes que le remède des dépressions, et cela ne doit pas nous étonner dans la mesure où politiquement il est toujours facile de céder à l'attrait de l'argent facile et suicidaire de proposer de laisser le marché liquider les mauvais investissements. 
+
+"l'instabilité de l'économie de marché est la conséquence de l'exclusion du principal mécanisme de régulation du marché, l'argent, de la régulation par les processus du marché".
+
+Par construction, une institution n'aura jamais l'information nécessaire à la régulation de l'offre de la monnaie, et même si elle l'avait, elle ne serait pas toujours en mesure d'agir comme il le faudrait pour l'atteindre. 
+
+Si le rôle principal de la monnaie dans une économie de marché est de fournir par les prix des informations pour guider l'action des hommes, seule l'observation du prix d'un ou plusieurs biens peut donner une indication de la direction dans laquelle l'investissement doit se diriger. La monnaie n'est pas un outil qui permet d'atteindre un résultat prédéfini par le contrôle de sa quantité, mais doit être intégré au mécanisme auto-régulateur par lequel les individus sont constamment enjoint d'adapter leur activité aux circonstances. La monnaie est un rouage de transmission qui relaie les effets des événements bien que ces derniers ne soient pleinement connus de personne, et qui est nécessaire pour que les actions de tous les acteurs se coordonnent.
+
+## Le gouvernement ne peut pas agir dans l'intérêt général
+
+Même en supposant que le gouvernement dispose du savoir nécessaire pour calculer la politique monétaire optimale, il est peu probable qu'il agisse réellement dans cette direction. 
+
+S'il possède le pouvoir de favoriser un groupe d'intérêt particulier, l'intérêt du gouvernement est alors de favoriser cet intérêt pour s'attirer leur faveur, à plus forte raison dans une démocratie. La tentation d'utiliser l'arme monétaire pour répondre aux revendications et aux mécontentements s'avèrera souvent irrésistible. 
+
+Dans les cas de catastrophe majeure et notamment de conflit armé, les gouvernements ont bien entendu toujours le pouvoir de forcer des emprunts sur leur population. Pour douloureux qu'il soit, ce moyen reste moins nocif que l'inflation qui sape le fonctionnement de l'économie de marché. (En fait il est probable que pour des raisons politiques aucun gouvernement n'arrive à ces extrémités pour financer un conflit, et préfère rechercher une solution négociée avec son adversaire aussitôt qu'il tombe à court de financement, ce qui était généralement le cas avant le XXe siècle)
+
+## Plus de problème de balance commerciale
+
+Avec la disparition des monnaies nationales, le problème des balances commerciales disparaît lui aussi. La situation entre des pays différents deviendrait alors similaire à celle entre des régions d'un même pays. 
+
+L'existence-même des balances commerciales est en fait contingente à l'existence de plusieurs monnaies nationales, ce qui provoque aussi l'illusion d'une forme de cohérence des prix à l'intérieur d'un pays par rapport à ses voisins. 
+
+## La drogue de l'argent facile
+
+La croyance que l'argent facile peut être distribué sans conséquence néfaste ou même peut être bénéfique rend d'autant plus irrésistible les pressions politiques. Les effets négatifs sont difficiles à voir et à comprendre et touchent tout le monde, tandis que les effets positifs sont évidents, en particulier pour ceux qui sont les premiers à recevoir de l'argent facile par le crédit. 
+
+Argent comme service : un médium d'échange qui conserve la valeur d'un service fournit à d'autres jusqu'au moment où vous souhaitez acheter un service équivalent, le tout sans perte. Permettre à certains d'acheter davantage que ce que eux-mêmes ont fourni aux dépends de ceux qui ne l'ont pas encore fait est un crime équivalent à un vol. 
+
+Quand le crime est commis par une institution monopolistique comme un gouvernement, il va généralement impuni car incompris. Pour des acteurs privés en concurrence, ce serait un suicide car cela reviendrait à détruire le service proposé à leur client. 
+
+## Abolition des banques centrales
+
+On peut arguer que les banques centrales continueront d'exister dans ce monde, soit que des organismes privées reprennent en charge ses missions dans le nouveau système, soit que les banques centrales gouvernementales restent nécessaires tant que la monnaie du gouvernement existe elle-aussi. 
+
+Les banques centrales ne sont au fond nécessaire que dans la mesure où les banques commerciales sont habilitées à émettre des dettes payables sur demande dans une monnaie qu'elles ne fabriquent pas elles-mêmes. En l'absence d'un monopole de la création monétaire et de loi de cours forcé, il n'y a aucune justification qu'une banque dépende des espèces fabriquées par un autre organisme pour régler ses dettes. 
+
+On pourrait arguer que les banques centrales sont nécessaires pour garantir une certaine élasticité de la monnaie en circulation. Le lien entre élasticité du stock monétaire et stabilité de sa valeur est en effet un véritable problème, qui ne peut être résolu que si l'émetteur d'une monnaie est conscient que la survie de son entreprise dépend de la stabilité de la valeur de sa monnaie et donc de son stock. 
+
+Si une augmentation du stock engendre une augmentation des prix, cela n'est pas justifiable, même si certains estiment avoir besoin de cash tout de suite. En effet, la monnaie ne peut remplir son rôle que parce que c'est le bien le plus liquide, celui dont on peut s'attendre que la valeur reste constante dans le temps. 
+
+Ce qui est limité, ce n'est pas la liquidité mais le pouvoir d'achat, car il n'existe qu'un nombre donné de choses à acheter à un instant t. Tant que les gens désirent épargner toute unité de monnaie supplémentaire, de nouvelles unités peuvent être créées sans impact sur les prix, et donc sur la valeur de l'argent. Si les gens veulent plus d'argent pour pouvoir le dépenser, le pouvoir d'achat du crédit qu'on leur accord fond entre leur main. 
+
+## Pas de taux d'intérêt fixe
+
+La disparition de la banque centrale et du monopole sur la monnaie entraîne celle de la possibilité de fixer délibérément les taux d'intérêt. La politique de taux d'intérêt ne sera pas regrettée. Le taux d'intérêt, comme n'importe quel autre prix, est un signal qui aggrège des milliers de circonstances affectant la demande et l'offre de prêt, qui ne peuvent jamais être pleinement connu par aucune entité. 
+
+Ce signal peut être désagréable, mais il est néanmoins nécessaire. L'idée-même que le taux d'intérêt puisse être un instrument d'une politique est donc une erreur.
+
+Les banques qui cherchent à contrôler la valeur de leur monnaie prêteront et emprunteront à des taux fixés par le marché. Pour ne pas augmenter les prix, le montant total des prêts accordés par l'ensemble des banques ne devra pas dépasser le volume courant d'épargne de plus que ce qui est requis pour augmenter la demande aggrégée au même rythme que celui de la croissance de la production (peu clair)
+
+Le taux d'intérêt serait alors déterminé par l'équilibre entre la demande de monnaie pour consommation et l'ajustement de l'offre nécessaire pour garder les prix constants. Cela réalisera sûrement le meilleur équilibre envisageable entre épargne et investissement, et permettra de prendre en compte les changements dans la demande de monnaie causée par les changements dans la quantité épargnée par chacun. 
+
+Le gouvernement pourra encore influencer les taux d'intérêt en empruntant, mais cela sera moins pernicieux que les manipulations actuelles qui lui permettent d'emprunter à des taux réduits, une pratique si nocive qu'elle justifierait à elle seule que le gouvernement soit tenu à l'écart. 
+
+# Une meilleure discipline que celle des taux de change fixes
+
+Hayek a été un supporter des taux de change fixes, est-ce que sa proposition ne serait pas contradictoire avec ses positions antérieures ?
+
+Erreur fondamentale des taux de change flottant : considère les prix statistiquement agrégés d'un pays à l'autre et tente de corriger l'évolution de cet agrégat, alors que ce sont les prix relatifs dans la même monnaie qui déterminent la structure productive d'un pays. Une politique de taux de change tente de contrer une évolution perçu de l'ensemble de sa structure de prix relativement à une autre, alors qu'il faudrait agir sur certains prix mais sur toutes les structures de prix (pays).
+
+## Retirer les protections des monnaies nationales face à la concurrence
+
+Les taux de change fixe imposent une discipline aux institutions de création monétaire. Par le passé, c'est l'étalon-or qui a joué ce rôle, mais sa règle était trop faible et les gouvernements ont fini par la briser. Compter sur la simple "bonne volonté" des institutions pour empêcher les manipulations monétaires est illusoire. 
+
+## Meilleur que l'or, cette "ancre frêle"
+
+La valeur d'une monnaie convertible en or n'est pas dérivée de la valeur de l'or, mais conservé à peu près constante par les mécanismes autorégulateurs qui en régulent la quantité. 
+
+La superstition que la valeur d'une monnaie est déterminée par la valeur de l'or (elle-même déterminée par ses emplois non monétaires et/ou ses coûts de production) a la vie dure, alors qu'il est bien plus exacte de dire que la valeur de l'or est déterminée par le nombre de monnaies qui peuvent être converties en or.
+
+Historiquement, toute monnaie qui a conservé sa valeur pour une durée significative était métallique ou convertible en métal. Mais le pouvoir a toujours rapidement trouvé le moyen de déprécier sa monnaie, même les monnaies métalliques. Les monnaies papier ne présentant aucune limitation intrinsèque, cette dévaluation est encore plus brutale. C'est pourquoi un certain nombre de personnes estiment que le salut viendra d'un retour à un étalon monétaire ou autre. Mais non seulement l'expérience nous a amplement prouvé qu'une telle monnaie est aussi vulnérable à toutes sortes de fraudes de la part du gouvernement, elle ne sera jamais une aussi bonne monnaie que celle émise par une entité qui ne doit son existence et son succès qu'à la satisfaction des besoins du public. 
+
+L'or est une ancre, et n'importe quel ancrage est préférable à une monnaie laissée entièrement à la discrétion du gouvernement, mais c'est une ancre fragile. Si la majorité des pays dans le monde implémentait leur propre étalon-or, il n'y aurait certainement pas suffisamment d'or pour y parvenir. En pratique, quelques pays auraient un véritable étalon-or, les autres n'auraient qu'un gold exchange standard.
+
+## La concurrence procurera une meilleure monnaie que le gouvernement le pourrait
+
+Nous pouvons faire mieux que l'or, tandis que le gouvernement ne le peut pas. La libre entreprise, l'institution qui émergerait spontanément d'un processus de concurrence dans la production de monnaie, peut faire mieux que l'or. De plus elle permettra d'éviter de mettre en place le procédé complexe de la convertibilité, qui implique la constitution de réserve importante. 
+
+Un étalon-"marchandise de réserve", qui serait idéalement supérieur, souffre de la même faiblesse, car assurer la convertibilité nécessiterait la constitution de stocks gigantesques de matières premières et de diverses marchandises. La convertibilité est un garde-fou que l'on impose à un monopole d'émission, mais devient superflu si l'on se trouve dans un contexte concurrentiel. 
+
+## Différence entre monnaie papier volontairement acceptée et forcée
+
+L'histoire semble donner raison aux peuples qui se sont toujours méfié de la monnaie papier, mais cette méfiance n'est réellement fondée que vis-à-vis de la monnaie du gouvernement.
+
+Le terme _fiat_ est employé pour désigner toute monnaie papier, mais elle ne désigne en réalité que les monnaies qui ont cours par décret ou toute autre décision arbitraire. 
+
+La monnaie qui a cours uniquement parce que les gens sont forcés de l'utiliser est bien entendu différente d'une monnaie qui a cours parce que les gens font confiance à l'émetteur. Une monnaie papier acceptée volontairement ne doit pas souffrir de la mauvaise réputation des monnaies gouvernementales. 
+
+La monnaie a de la valeur dans la mesure où elle est rare et cette rareté est reconnue. Une monnaie dont les utilisateurs font confiance que l'émetteur maintiendra sa rareté sera conservée par eux tant que cette confiance sera maintenue. C'est précisément comme cela que toutes les monnaies fonctionnent dans le monde depuis les années 30. L'émetteur peut réguler la quantité de monnaie en circulation en achetant et en vendant d'autres devises ou marchandises.
+
+# Des zones monétaires distinctes seront-elles nécessaires ?
+
+## Les monnaies nationales, dispensables et nocives
+
+En l'absence de barrières douanières et d'autres obstables au libre mouvement des biens et des personnes, la tendance des prix à évoluer à l'unisson au niveau national est une conséquence bien plus qu'une justification des monnaies nationales. Cette situation a de plus entraîné l'apparition d'institutions nationales et internationales destinées à gérer et négocier les évolutions monétaires des différents pays. 
+
+L'existence de monnaies nationales donne donc davantage de poids aux gouvernements sur la réalisation d'un ordre et d'une stabilité internationale, ce qui est indésirable. Seuls les divers étatistes peuvent trouver leur compte à la situation actuelle. 
+
+Les espaces économiques ne recoupent pas les ensembles politiques, et il y a quelque chose d'absurde à exiger que des espaces économiques hétérogènes utilisent la même monnaie uniquement parce qu'ils font partie du même ensemble politique. 
+
+La justification moderne pour le nationalisme monétaire est qu'il permet d'influer la totalité des prix d'un espace politique, ce qui est présenté comme un avantage lorsque cela permet d'éviter de baisser un groupe de prix en particulier (par exemple, les salaires dans une industrie dont la demande baisse). Mais cela signifie en fait qu'au lieu de laisser les quelques prix concernés s'ajuster, ce sont tous les autres prix (ceux des industries dont la demande internationale n'a pas été touchée) qui devront s'ajuster à la hausse une fois que le taux de change national aura été dégradé.
+
+Il s'agit donc d'un mécanisme en pratique inflationniste, en dépit de tentatives pour forcer l'ajustement sur les pays en surplus commercial (les forcer à déflater), dans la pratique cela permet de tirer tout le monde vers le haut. 
+
+Le gouvernement ne peut pas plus empêcher la réduction de la quantité de monnaies en circulation dans une zone donnée qu'il ne peut empêcher une réduction des revenus d'un groupe d'individus. Dans la pratique, il ne peut qu'acheter un peu de temps pour le groupe impacté en faisant payer indirectement tous les autres. Cette possibilité ne doit pas être laissée au gouvernement, qui l'utilisera toujours pour s'acheter une clientèle aux dépends du reste de la société. 
+
+## Rigidité des salaires : augmenter la structure des prix nationaux n'est pas une solution
+
+L'expérience montre que l'inflation n'est pas la solution aux difficultés causées par la rigidité des salaires. Augmenter les prix pour contrer les effets de la négociation syndicale sur le chômage ne fait que brouiller le lien direct entre cette politique et le chômage, et crée une demande politique pour de l'intervention tout azimuth pour juguler le chômage crée par l'inflation en premier lieu. 
+
+## Un niveau de prix national stable peut perturber l'activité économique
+
+Il n'y a pas de raison de vouloir qu'une région économique ait un niveau de prix stable en dépit des inévitables fluctuations de demandes. La relation entre des régions différentes au sein d'un pays n'est pas différente de celles des pays entre eux. Le transfert de la demande pour les produits d'une industrie de la région A vers la région B entraîne une perte d'emplois, de revenus et probablement une baisse du niveau général des prix dans la région A. Mais la baisse des salaires pourra également attirer d'autres industries avec une structure de coût différente. Mais il n'y a rien à gagner à augmenter la quantité de monnaie en circulation dans la région A pour contrer cet effet. 
+
+Est-ce que des monnaies régionales s'imposeraient dans un système libre ? Il est possible que les habitants d'une région accorde plus de confiance à une monnaie indexée sur le prix de certains produits locaux plutôt qu'une monnaie plus internationale, mais cela n'a rien de certains. Par commodité, l'utilisation d'une seule monnaie deviendra probablement généralisée sur une zone donnée, cela n'est pas un problème tant que la possibilité de la compétition existe. La convertibilité entre différentes monnaies de référence agit également comme menace sur l'émetteur, en augmentant la liquidité de toutes les monnaies. 
+
+Des enclaves existeront toujours sur lesquels le pouvoir pourra refuser la libre circulation et émission des monnaies, mais elles ne peuvent pas menacer le système dans son ensemble. 
+
+# Les effets sur les finances et dépenses du gouvernement
+
+Les objectifs poursuivis par une monnaie satisfaisante pour ses utilisateurs et ceux des finances publiques sont largement en opposition. Placer les deux dans les mains du gouvernement a entraîné beaucoup de confusions et de malheurs, ainsi qu'une hausse incontrôlée des dépenses publiques. Le mariage des politiques fiscales et monétaires est la menace n°1 contre l'économie de marché et la liberté individuelle. 
+
+Les besoins de financement du gouvernement n'ont aucune limite, et il a souvent recouru à la politique monétaire pour les combler, tout simplement en maintenant les taux d'intérêt bas ce qui lui a permis de se financer à de bien meilleures conditions que celles qu'il pourrait rencontrer sur le marché. 
+
+## Une bonne monnaie nationale est impossible sous un gouvernement démocratique soumis aux intérêts particuliers
+
+Il est impossible pour une banque centrale, même formellement indépendant du pouvoir politique, de mener une politique monétaire favorable à l'établissement d'une économie de marché fonctionnelle. La bonne monnaie est comme la bonne loi, elle doit agir sans aucune considération pour les effets qu'elle peut avoir pour un groupe ou un individu donné. Un gouvernement démocratique est structurellement incapable d'arriver à ce détachement. 
+
+## Le monopole du gouvernement sur la monnaie et les dépenses publiques
+
+La possibilité de recourir à l'inflation a libéré le gouvernement de la nécessité de limiter ses dépenses dans la limite de ses revenus. Cela explique en grande partie le succès du Keynésianisme au sein des gouvernements, car Keynes fournissait une justification qui libérait les pouvoirs publics des derniers scrupules qu'ils pouvaient avoir à laisser courir leur déficit. 
+
+Explosion des budgets des gouvernements des pays occidentaux après-guerre, au-dessus de 50% du PIB, rendu possible par :
+1. l'augmentation des recettes fiscales, l'inflation permet de pousser davantage de citoyens vers des taux d'imposition supérieurs alors que leur revenu réel reste le même ou augmente moins vite
+2. la possibilité de financer ses déficits par l'emprunt à des taux faibles a permis de repousser les conséquences d'un dépassement budgétaire et donc favoriser l'augmentation incontrôlée des dépenses dans la mesure où les responsables seront partis depuis longtemps au moment où il faudra affronter les conséquences
+
+## L'argent du gouvernement et les déséquilibres budgétaires
+
+L'exercice budgétaire annuel est une convention un peu artificielle, mais qui a néanmoins son sens pour le gouvernement. La justification des déséquilibres budgétaires serait que ces derniers sont nécessaires pour permettre au gouvernement de contrer le chômage causé par les cycles économiques. Ces cycles étant principalement causés par les manipulations monétaires, le gouvernement prétend ainsi soigner un mal dont il est lui-même l'auteur, aggravant encore davantage le problème.
+
+Si la monnaie était stable et saine, il n'y aurait aucune justification pour des excédents budgétaires du gouvernement. Il est difficile de montrer leurs effets positifs, alors que leurs conséquences néfastes sont désormais évidentes, et même si les cycles économiques étaient une fatalité il y aurait certainement moins de mal à ne rien faire qu'à laisser le gouvernement tenter de le contrer par des dépenses excédentaires.
+
+Il est désormais trop facile pour un ministre des finances de prévoir un budget en déséquilibre et de dépasser même les dépenses prévues sans que cela ait de conséquences. Cette situation crée une demande politique pour davantage d'interventions et de distributions de prébendes, demandes auxquelles il est difficile de résister pour les politiciens. Sans le garde-fou de la limitation des moyens disponibles, la bureaucratie croît alors sans limites.
+
+Le seul moyen de ramener le gouvernement sous contrôle est de le soumettre à nouveau à la même discipline que les acteurs privés : s'ils dépensent plus qu'ils ne gagnent, alors ils ne seront pas en mesure de satisfaire leur créancier. 
+
+Cela n'empêche pas le gouvernement de souscrire des emprunts pour faire face à des situations exceptionnelles ou même pour des investissements, mais cela doit toujours être fait dans la même logique entrepreneuriale que les acteurs privés. 
+
+## Le pouvoir que le gouvernement a sur la monnaie facilite la centralisation
+
+Il découle évidemment de tout cela que le contrôle sur la monnaie est un des principaux outils de la croissance de gouvernements centralisés et autoritaires dans le monde. Un gouvernement dont le budget représente plus de 50% de la richesse nationale est sur une pente dangereuse qui l'amène littéralement à devenir totalitaire. 
+
+Cette situation ne peut advenir et perdurer que parce que les mécanismes de la création monétaire sont complexes et incompréhensibles pour l'écrasante majorité des citoyens, et que l'espoir d'être bénéficiaire de la distribution de prébendes gouvernementaux maintient l'illusion chez la plupart d'être des bénéficiaires nets du régime. Les citoyens ne cesseront de supporter la situation que quand le coût qu'il supporte leur apparaîtra clairement et la rendre injustifiable. 
+
+# Les problèmes de la transition
+
+Dans la mesure où les anciennes monnaies nationales ne cesseraient pas instantanément d'exister, la transition pourrait se faire en douceur le temps que les différents acteurs (consommateurs, producteurs, industriels...) apprennent à exploiter les avantages que leur confèrent l'utilisation de différentes monnaies. 
+
+Les nouveaux émetteurs de monnaie, étant dans une position de conquête, auront tout intérêt à fournir le maximum d'aides et de services pour aider les acteurs économiques à effectuer la transition. 
+
+## Prévenir la rapide dépréciation des monnaies existantes
+
+Les deux secteurs d'activité qui seront réellement bouleversés par la nouvelle donne sont les finances publiques et privées (banque, assurance, organismes de prêt...). 
+
+Pour le gouvernement, la 1ère tâche sera de prévenir un effondrement rapide de l'ancienne monnaie nationale, ce qui ne pourra être effectivement réalisé qu'en donnant une indépendance totale à la banque centrale. Les finances publiques ne doivent ainsi plus pouvoir se financer que sur le marché libre, et le gouvernement revenir rapidement à des budgets à l'équilibre.
+
+## Introduire les nouvelles monnaies d'un coup, et pas graduellement
+
+Le gouvernement doit effectuer la transition d'un coup pour permettre une transition efficace. Accorder la liberté d'émission sans la liberté des capitaux à travers les frontières, ou l'inverse, condamnerait l'expérience. L'existence de réserve permettant au gouvernement de reprendre le contrôle "en cas de problème" empêchera également l'expérience de réussir. 
+
+Conditions nécessaires à la réussite de l'introduction de monnaies libres :
+* les nouvelles monnaies sont exemptes de tout contrôle gouvernemental
+* on ne croira les banques capables de maintenir la stabilité de leur monnaie que si elles sont fermement tenues par la concurrence
+* les individus doivent être libres du choix de la monnaie qu'ils souhaitent utiliser
+* un marché de change libre et très liquide qui doit donner l'information sur l'évolution de chaque monnaie 
+* des frontières ouvertes aux capitaux pour empêcher la collusion de différents pouvoirs locaux 
+* des marchés libres pour les marchandises servant d'index pour les monnaies libres, afin d'avoir des prix relativement stables et homogènes et une adaptation rapide de l'offre et de la demande
+
+## changement de politique des banques commerciales
+
+Chaque banque devra décider soit d'émettre sa propre monnaie, soit de conduire ses affaires dans une ou plusieurs monnaies créees par d'autres institutions. Dans le 2e cas, elles devront pratiquer une forme de réserve totale. Les banques "simples" devront ainsi charger relativement plus la gestion des comptes courants afin de réaliser les bénéfices qu'elles ne pourront plus réaliser comme aujourd'hui par le crédit, et risquent donc de perdre largement ce business à leur concurrentes émétrices de monnaie. Elles risquent donc de devoir se rabattre sur la gestion de capitaux moins liquides. 
+
+Une conséquence possible est le développement d'une distinction plus nette entre la banque "pure" et l'investissement, ou la banque "à l'anglaise" et la banque "continentale". Il est possible que le business de la création monétaire se révèle difficilement compatible avec la gestion de larges portefeuilles d'investissements
+
+Les difficultés seraient différentes dans le cas où le gouvernement ne réussirait pas à empêcher l'effondrement de sa propre monnaie. En effet les banques non émétrices se retrouveraient alors à devoir gérer des actifs, notamment les prêts, qui fondent rapidement avec l'inflation. Ce ne serait toutefois pas une situation totalement nouvelle, dans la mesure où plusieurs pays se sont retrouvés dans ce type de situation et leurs banques ont dû faire face. 
+
+# Protection contre l'État
+
+Le caractère international du business de la création monétaire met les banques à l'abri des pressions les plus directes, néanmoins les banques qui ont des établissements dans plusieurs pays doivent être en concurrence avec elles-mêmes pour ne pas qu'on puisse les suspecter de collusion avec le gouvernement de leur maison-mère. D'autres problèmes pourraient également apparaître en cas de tensions politiques internationales. Les banques de petits pays riches pour lesquels la finance représente l'essentiel de l'activité seront avantagées de ce point de vue-là.
+
+## Pressions pour un retour aux monnaies nationales
+
+Les États pourraient continuer, par des subventions ou d'autres avantages, d'avantager une banques "nationale" qui émettrait la monnaie nationale, offrant toujours la possibilité d'un retour graduel au système actuel. 
+
+## Contrôle gouvernemental des capitaux et des monnaies
+
+La possibilité pour le gouvernement de reprendre le contrôle des mouvements de capitaux avec l'étranger, ou même des autres échanges (hommes, marchandises...) est la menace majeure. Cette dernière est très difficile à conjurer, car elle nécessite une population consciente du danger et en mesure d'y résister soit par les moyens politiques traditionnels, soit en cas d'échec de ces derniers par l'émigration. 
+
+Le système de monnaie libre, en permettant l'émergence de nouvelles zones économiques distinctes des zones politiques, doit rendre difficile, et même après un certain temps impossible, cette reprise en main par un pouvoir autoritaire. 
+
+# Le long-terme
+
+Après la phase initiale, les monnaies les moins adaptées seraient éliminées, et ne resteraient dans le monde qu'un petit nombre de monnaies relativement similaires. Dans des régions assez vastes, seules 1 ou 2 seraient dominantes, mais les zones monétaires n'auraient pas de frontières nettes et se chevaucheraient les unes les autres. 
+
+## Possibilité de la multiplicité de monnaies similaires
+
+Une fois que des monnaies seront devenues bien établies, d'autres banques concurrentes pourront tenter de produire leur propre monnaie en utilisant le même index. La compétition pourrait se faire donc non sur la composition de l'index, mais sur les proportions respectives des produits qui le composent, avec pour objectif d'assurer la stabilité maximale à leurs clients. Les services (comptabilité) deviendraient également déterminant pour gagner des parts de marché. 
+
+On pourrait ainsi voir l'émergence de "standards" (= composition de l'index) utilisés par différentes monnaies qui seraient donc acceptées de façon plus ou moins interchangeable par le public. Le standard pourrait s'étendre non seulement à la composition mais aussi à la proportion des différents produits. Les banques pourraient produire des monnaies correspondantes à différents standards si leur réputation est suffisante pour assurer que le public les accepte. 
+
+## Préservation d'un standard pour les dettes à longue échéance libellées dans une monnaie dépréciée
+
+En l'absence de cours légal, il reviendra aux tribunaux de déterminer comment doit être libérée une dette en cas de litige. Si le contrat est libellé dans une monnaie libre, la pratique courante devrait devenir de déterminer la valeur demandée par chaque partie au moment de la signature du contrat et en utilisant l'index de trouver un équivalent suffisamment proche dans une monnaie stable. 
+
+Seuls les détenteurs de larges sommes en cash seraient en danger en cas d'effondrement brutal d'une monnaie, mais cela est une risque relativement mineur comparé à celui qu'il y a aujourd'hui en cas d'effondrement d'une monnaie nationale. Notamment les détenteurs de dettes libellées dans la monnaie dépréciée serait à l'abri de pertes majeures. 
+
+## Nouveau cadre légal pour les banques
+
+Bien que le cadre légal de la banque pourrait peut-être évoluer, la règle doit être pour les gouvernements d'interférer le moins possible avec elles. 
+
+# Conclusions
+
+L'abolition du monopole du gouvernement sur la monnaie devrait mettre un terme aux vagues d'inflation et de déflation qu'a connue le monde depuis son instauration, et encore plus les vagues de dépression et de chômage. 
+
+## L'étalon-or n'est pas la solution
+
+Le retour à l'étalon-or est envisagé comme une solution par certains, et c'est effectivement le _seul système monétaire raisonnablement sûr dans le cas où la gestion de la monnaie est au mains du gouvernement_. Si l'on décide de sortir la monnaie du giron du gouvernement, alors il est certainement possible de faire beaucoup mieux. 
+
+Les opposants au rétablissement de l'étalon-or arguent qu'une direction centralisée de la monnaie est nécessaire pour contrer l'instabilité inhérente au système de crédit existant. Mais cette instabilité n'est elle-même que la conséquence de la façon dont la banque s'est organisée :
+* émission monétaire par un organisme monopolistique distinct des banques
+* dépôts en métal précieux
+* convertibilité de la monnaie en métal précieux à un taux fixe
+Si l'on supprime le système tel que décrit ci-dessus, il n'y a alors plus de nécessité pour un contrôle centralisé de la monnaie, et un système libre devient envisageable. 
+
+Le succès d'une monnaie réside dans la gestion de sa quantité afin de maintenir son pouvoir d'achat constant. Ainsi, l'or ne s'imposera probablement pas en tant que monnaie universelle, car la brusque augmentation de sa demande va entraîner une augmentation très rapide de son prix (déflation très brutale).
+
+## La bonne monnaie ne viendra que de l'intérêt particulier, pas de la bienveillance
+
+Comme pour tous les autres marchés, seul l'intérêt personnel des producteurs et la concurrence libre peut offrir à tous les produits de la meilleure qualité possible, mais ce n'est pas encore le cas pour la monnaie. 
+
+En imposant un monopole odieux sur la monnaie, le gouvernement a privé tous les acteurs économiques du moyen de se protéger contre les effets désastreux de ce même-monopole. La présente réforme n'est donc pas un simple détail technique, mais une réforme fondamentale qui aura un impact massif sur le devenir de l'ensemble de la civilisation.
+
+## Est-ce que monnaies papiers en concurrence est une proposition bien réalisable ?
+
+La proposition peut sembler complètement irréaliste, mais les choses changent. Par exemple, Adam Smith pensait utopique l'instauration du libre-échange au Royaumes-Unis. Cela a pris 90 ans, mais le RU a bien été le premier pays à instaurer un régime de libre-échange. 
+
+Pour la monnaie nous n'aurons pas 90 ans, c'est pourquoi la seule solution est de rendre le contrôle gouvernemental de la monnaie impossible.
+
+## Mouvement pour la liberté monétaire
+
+Nous aurions besoin d'un mouvement pour la liberté monétaire, comme nous avons eu un mouvement pour le libre-échange au XIXe siècle, qui réaliserait un important travail d'éducation pour faire prendre conscience au public des conséquences du système monétaire actuel. 
+
+Il ne s'agit pas d'un détail technique que l'on peut laisser aux experts, mais d'une décision majeure avec des implications profondes 
