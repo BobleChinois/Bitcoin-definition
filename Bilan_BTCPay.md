@@ -1,4 +1,4 @@
-I've discovered BTCPay existence by listening Nicola's talk this summer in Lisbon, and last month I decided to give it a try. Besides understanding how it works, I'd like to use it to enable bitcoins donation through the LN on my personal blog. 
+I've discovered BTCPay existence by listening to [Nicola's talk this summer in Lisbon](https://youtu.be/XORDEX-RrAI?t=5h22m26s), and last month I decided to give it a try. Besides understanding how it works, I'd like to use it to enable bitcoins donations through the LN on my personal blog. 
 
 While I have not a lot of experience with other more traditional solutions like Bitpay, Copay etc, I know enough that they suck at best, and can be unethical at worst, so I was particularily attracted by BTCPay's promise, that it allows anyone to be its own payment processor, or be someone's else payment processor, without third party interference. 
 
