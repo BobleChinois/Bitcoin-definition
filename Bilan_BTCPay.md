@@ -1,14 +1,16 @@
 I've discovered BTCPay existence by listening Nicola's talk this summer in Lisbon, and last month I decided to give it a try. Besides understanding how it works, I'd like to use it to enable bitcoins donation through the LN on my personal blog. 
 
-While I've not very experienced with other more traditional solutions like Bitpay, Copay etc, I know enough that they suck at best, and can be unethical at worst, so I was particularily attracted by BTCPay's promise, that it allows anyone to be its own payment processor, or be someone's else payment processor, without third party interference. 
+While I have not a lot of experience with other more traditional solutions like Bitpay, Copay etc, I know enough that they suck at best, and can be unethical at worst, so I was particularily attracted by BTCPay's promise, that it allows anyone to be its own payment processor, or be someone's else payment processor, without third party interference. 
 
 I'm even more sensitive to Nicolas' endeavour to make more people independent by running their own full node, which he is doing by embeding a Bitcoin and Lightning node with BTCPay server into a docker to make it as easy to run as a single click.
 
 ## The setup
 
-My setup is a bit peculiar, since I wanted to be absolutely independent, and don't even rely on a hosting service. 
+My setup is a bit peculiar: I've been running a Bitcoin and Lightning node on an old computer of mine for some times now, and I thought that I could use it to host BTCPay. 
 
-I've been running a Bitcoin and Lightning node on an old computer of mine for some times now, and I thought that I could use it to host BTCPay. However, this decision brought some complexity to the issue, that I haven't managed to solved completely so far - more on it later.
+I thought that I could run it on this little "home server", because it was already here and I kinda like the idea of not relying on anybody, not even a host.
+
+However, this decision brought some (maybe unnecessary) complexity, that I haven't managed to solved completely so far - more on it later.
 
 Here is the details of my setup :
 * Intel(R) Core(TM)2 Duo CPU     P8700  @ 2.53GHz
@@ -24,8 +26,11 @@ While I'm usually using LND, I decided to go with c-lightning for BTCPay, as sup
 
 So, that's what I achieved today :
 * I run a testnet BTCPay server inside a docker compose on my shitty 2009 laptop :smile:
-* my server is accessible to anyone at [sosthenebtcpay.pw](sosthenebtcpay.pw) to create shop and generate invoices
+* my server is accessible to anyone at [sosthenebtcpay.pw](sosthenebtcpay.pw) (or well, at least when it is not down for some reason) to create shop and generate invoices
+![sosthenebtcpay.pw](Images/sosthenebtcpay.pw.png)
 * I sucessfully paired it with my blog on Wordpress, and can generate invoice for Lightning payment directly from [my blog](sosthene.net).
+![blog](Images/sosthene1.png)
+![invoice](Images/invoices.png)
 
 ## What are the issues I already solved
 
@@ -41,7 +46,7 @@ I will list the issues I encountered into one of these two categories, and provi
 	* I had to manually modify the file that contains the setup of the docker compose, which is in `Generated/docker-compose.generated.yml`
 	* Here is the [Github issue](https://github.com/btcpayserver/btcpayserver-docker/issues/17) for more information
 	* TO DO : update will erase the modification I made to docker-compose.generated file. Nicolas later wrote some instructions about how to save it using [BTCPAYGEN_ADDITIONAL_FRAGMENTS](https://github.com/btcpayserver/btcpayserver-docker#how-can-i-customize-the-generated-docker-compose-file), I tried to do it but it didn't work, not sure why, I need to spend some more time with it.
-* Another issue linked to the first one was with the IP address and port in the node info that appears on the invoices I generated. At first, it was `127.0.0.1:9375`, which was obviously false. 
+* Another issue linked to the first one was with the IP address and port in the node info that appears on the invoices I generated. At first, it was `127.0.0.1:9375`, which was obviously wrong. 
 	* About the IP, it turned out that I wrote down my host name `sosthenebtcpay.pw` as `127.0.0.1` in my `/etc/hosts` file, probably to make a test at some earlier point, and of course totally forgot about it.
 	* Regarding the port, Nicolas made a change in a later commit that solved the issue, I updated and it worked just fine. 
 	* Here is the [Github issue](https://github.com/btcpayserver/btcpayserver-docker/issues/17) for more information
@@ -58,8 +63,12 @@ As I said, the next big step would be to go live on mainnet. Besides the unresol
 * I won't download and validate the blockchain again, especially on such an old computer. I need to find a way to leverage my existing blockchain directory for the BTCPay node.
 * Same for LND, I already have some channels open, and I'd rather find a way to import my wallet than to start all over again.
 
+While I like the idea of running it on my own hardware, I'm more and more convinced that it would be easier to just buy a VPS somewhere and do the whole sync all over again, and this way I won't mess up with my existing setup. Still need to make up my mind about this.
+
 Even if it wasn't easy, overall I'm really enthusiastic about BTCPay :
 * I recycled an obsolete and useless laptop to set up a Bitcoin payment processor that literally anyone can use. I think when everything is ready, it could really be a game changer for Bitcoin payments
-* Maybe even more important, it will boost full nodes propagation amongst the "non-initiates"
+* Maybe even more important, it will boost full nodes propagation amongst the "non-initiates".
 
-I think it could be a great tool to educate people about the benefits of being his own sovereign bank, which Bitcoin is all about to begin with. Bitcoinshirt already made a great tutorial to explain how to set up a very simple and robust ecommerce sites that can receive bitcoins payment, and I expect more of this kind of initiative to come - and I would like to take my part in it. 
+I think it could be a great tool to educate people about the benefits of being his own sovereign bank, which Bitcoin is all about to begin with.
+
+[Bitcoinshirt](https://bitcoinhackers.org/web/accounts/1672) already made a [great tutorial](https://bitcoinshirt.co/how-to-create-store-accept-bitcoin/) to explain how to set up a very simple and robust ecommerce sites that can receive bitcoins payment with BTCPay.
