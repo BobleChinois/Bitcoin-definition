@@ -30,7 +30,7 @@ So, that's what I achieved today :
 ![sosthenebtcpay.pw](Images/sosthenebtcpay.pw.png)
 * I sucessfully paired it with my blog on Wordpress, and can generate invoice for Lightning payment directly from [my blog](sosthene.net).
 ![blog](Images/sosthene1.png)
-![invoice](Images/invoices.png)
+![invoice](Images/invoice.png)
 
 ## What are the issues I already solved
 
